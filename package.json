@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "pg": "^8.11.5"
+  },
+  "name": "postgres",
+  "version": "1.0.0",
+  "main": "create_db.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
